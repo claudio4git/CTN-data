@@ -961,4 +961,4 @@ Oeste do Município, conforme definição constante do inc. IV do art. 3º da Le
 37.01.03 serviços de modelos e manequins 
 38.01.01 museologia 
 39.01.01 serviços de ourivesaria e lapidação 
-40.01.01 serviços relativos a obras de arte sob encomenda
+40.01.01 serviços relativos a obras de arte sob encomenda 
